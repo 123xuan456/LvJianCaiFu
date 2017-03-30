@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LvJianCaiFu.iml" filepath="$PROJECT_DIR$/LvJianCaiFu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banner/banner.iml" filepath="$PROJECT_DIR$/banner/banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LvJianCaiFu/lvJianCaiFu.iml" filepath="$PROJECT_DIR$/LvJianCaiFu/lvJianCaiFu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerIndicator_library/viewpagerIndicator_library.iml" filepath="$PROJECT_DIR$/viewpagerIndicator_library/viewpagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutillibrary/xutillibrary.iml" filepath="$PROJECT_DIR$/xutillibrary/xutillibrary.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+<!--     <ScrollView -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="wrap_content" > -->
+
+<!--         <LinearLayout -->
+<!--             android:layout_width="match_parent" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:orientation="vertical" > -->
+
+<!--             <ImageView -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="40dp" -->
+<!--                 android:layout_gravity="center" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:src="@drawable/setting_down_times" /> -->
+
+<!--             <LinearLayout -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:orientation="horizontal" -->
+<!--                 android:padding="5dp" > -->
+
+<!--                 <LinearLayout -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:orientation="vertical" > -->
+
+<!--                     <TextView -->
+<!--                         android:layout_width="wrap_content" -->
+<!--                         android:layout_height="wrap_content" -->
+<!--                         android:layout_gravity="center" -->
+<!--                         android:background="@drawable/yuan" -->
+<!--                         android:gravity="center" -->
+<!--                         android:text="1" -->
+<!--                         android:textColor="#fff" /> -->
+
+<!--                     <ImageView -->
+<!--                         android:layout_width="50dp" -->
+<!--                         android:layout_height="50dp" -->
+<!--                         android:layout_margin="5dp" -->
+<!--                         android:src="@drawable/zhuandong" /> -->
+<!--                 </LinearLayout> -->
+
+<!--                 <TextView -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:text="游客点击首页右上角“发布标书”，完善信息内容即可生成账号发布标书，后续可登陆账号查看标书情况。" /> -->
+<!--             </LinearLayout> -->
+
+<!--             <LinearLayout -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:orientation="horizontal" -->
+<!--                 android:padding="5dp" > -->
+
+<!--                 <LinearLayout -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:orientation="vertical" > -->
+
+<!--                     <TextView -->
+<!--                         android:layout_width="wrap_content" -->
+<!--                         android:layout_height="wrap_content" -->
+<!--                         android:layout_gravity="center" -->
+<!--                         android:background="@drawable/yuan" -->
+<!--                         android:gravity="center" -->
+<!--                         android:text="2" -->
+<!--                         android:textColor="#fff" /> -->
+
+<!--                     <ImageView -->
+<!--                         android:layout_width="50dp" -->
+<!--                         android:layout_height="70dp" -->
+<!--                         android:layout_margin="5dp" -->
+<!--                         android:src="@drawable/zhuandong1" /> -->
+<!--                 </LinearLayout> -->
+
+<!--                 <TextView -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:text="会员和盟员点击右上角“企业中心”进入“我的主页”。" /> -->
+<!--             </LinearLayout> -->
+
+<!--             <LinearLayout -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:orientation="horizontal" -->
+<!--                 android:padding="5dp" > -->
+
+<!--                 <LinearLayout -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:orientation="vertical" > -->
+
+<!--                     <TextView -->
+<!--                         android:layout_width="wrap_content" -->
+<!--                         android:layout_height="wrap_content" -->
+<!--                         android:layout_gravity="center" -->
+<!--                         android:background="@drawable/yuan" -->
+<!--                         android:gravity="center" -->
+<!--                         android:text="3" -->
+<!--                         android:textColor="#fff" /> -->
+
+<!--                     <ImageView -->
+<!--                         android:layout_width="50dp" -->
+<!--                         android:layout_height="90dp" -->
+<!--                         android:layout_margin="5dp" -->
+<!--                         android:src="@drawable/zhuandong1" /> -->
+<!--                 </LinearLayout> -->
+
+<!--                 <TextView -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:text="左边栏选择“招标投标”点击“发布标书”，填写标书标题、编号、制作单位、金额、开始和结束时间、地区、数量及标书内容，上传文件后点击发布标书。" /> -->
+<!--             </LinearLayout> -->
+
+<!--             <LinearLayout -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:orientation="horizontal" -->
+<!--                 android:padding="5dp" > -->
+
+<!--                 <LinearLayout -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:orientation="vertical" > -->
+
+<!--                     <TextView -->
+<!--                         android:layout_width="wrap_content" -->
+<!--                         android:layout_height="wrap_content" -->
+<!--                         android:layout_gravity="center" -->
+<!--                         android:background="@drawable/yuan" -->
+<!--                         android:gravity="center" -->
+<!--                         android:text="4" -->
+<!--                         android:textColor="#fff" /> -->
+
+<!--                     <ImageView -->
+<!--                         android:layout_width="50dp" -->
+<!--                         android:layout_height="110dp" -->
+<!--                         android:layout_margin="5dp" -->
+<!--                         android:src="@drawable/zhuandong3" /> -->
+<!--                 </LinearLayout> -->
+
+<!--                 <TextView -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:text="提交标书后由审标单位及专家组在X个工作日（或XX小时之内）审核，由邮件/或其他方式通知审核结果。" /> -->
+<!--             </LinearLayout> -->
+
+<!--             <LinearLayout -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="wrap_content" -->
+<!--                 android:orientation="horizontal" -->
+<!--                 android:padding="5dp" > -->
+
+<!--                 <LinearLayout -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:orientation="vertical" > -->
+
+<!--                     <TextView -->
+<!--                         android:layout_width="wrap_content" -->
+<!--                         android:layout_height="wrap_content" -->
+<!--                         android:layout_gravity="center" -->
+<!--                         android:background="@drawable/yuan" -->
+<!--                         android:gravity="center" -->
+<!--                         android:text="5" -->
+<!--                         android:textColor="#fff" /> -->
+
+<!--                     <ImageView -->
+<!--                         android:layout_width="50dp" -->
+<!--                         android:layout_height="130dp" -->
+<!--                         android:layout_margin="5dp" -->
+<!--                         android:src="@drawable/zhuandong3" /> -->
+<!--                 </LinearLayout> -->
+
+<!--                 <TextView -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:text="发布成功后可在“招标投标”中“我的标书”查看标书状态。" /> -->
+<!--             </LinearLayout> -->
+
+<!--             <ImageView -->
+<!--                 android:layout_width="wrap_content" -->
+<!--                 android:layout_height="40dp" -->
+<!--                 android:layout_gravity="center" -->
+<!--                 android:layout_weight="1" -->
+<!--                 android:src="@drawable/setting_up_times" /> -->
+<!--         </LinearLayout> -->
+<!--     </ScrollView> -->
+
+</LinearLayout>

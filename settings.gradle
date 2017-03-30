@@ -1,0 +1,5 @@
+include ':viewpagerIndicator_library', ':banner'
+include ':library'
+include ':slidingmenu'
+include ':xutillibrary'
+include ':lvJianCaiFu'

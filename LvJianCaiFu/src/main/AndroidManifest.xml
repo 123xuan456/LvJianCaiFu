@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ryan.slidefragment.generaldemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+
+
+    <application
+        android:name="com.ryan.slidefragment.base.BaseApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/StyledIndicators" >
+        </activity>
+        <activity
+            android:name=".ActivityLogin"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MengYuanJiBieActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityCode"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityRegistered"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name=".JiaRuLianMengActivity"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.TechnologyFragment"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name=".ShenQingActivity"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityZhaoBiao"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Gongsi_Chanpin_ListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityForget"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityFuWu_zhanlanhui_Dialog"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ChengGongAnLiActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".CGAL_xinwenxiangqingActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".JiShuZhanShiActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".HangYeZiXunActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TongZhiGongGaoActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ZhengCiActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityFuWu_hangyehuiyuan_Dialog"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Jiarulianemeng"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".BabyActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".BabyActivity_1"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Lvsecaifuxieyi"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name=".YiJianFanKui"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.view.ShowBigPictrue"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ErWeiMaActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityHuanYingYe"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActivityYinDaoYe"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ListViewChanPin"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ListViewLianMengXinWen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ActivityItem"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".CollectionActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".GongSiActivity"
+            android:label="@string/title_activity_gong_si" >
+        </activity>
+        <activity
+            android:name=".DePoCaiJiActivity"
+            android:label="@string/title_activity_de_po_cai_ji"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".MengYuanXiangQing_DialogActivity"
+            android:label="@string/title_activity_meng_yuan_xiang_qing__dialog" >
+        </activity>
+        <activity
+            android:name=".JiangRuLiangMengXieYiActivity"
+            android:label="@string/title_activity_jiang_ru_liang_meng_xie_yi" >
+        </activity>
+        <activity
+            android:name=".LimengxinwengengduozhengwenActivity"
+            android:label="@string/title_activity_limengxinwengengduozhengwen" >
+        </activity>
+        <activity
+            android:name=".JishuzhanshixiangqingActivity"
+            android:label="@string/title_activity_jishuzhanshixiangqing" >
+        </activity>
+        <activity
+            android:name=".ChenggonganlixiangqingActivity"
+            android:label="@string/title_activity_chenggonganlixiangqing" >
+        </activity>
+        <activity
+            android:name=".HangyezhengceActivity"
+            android:label="@string/title_activity_hangyezhengce" >
+        </activity>
+        <activity
+            android:name=".LianmengzhengceActivity"
+            android:label="@string/title_activity_lianmengzhengce" >
+        </activity>
+        <activity
+            android:name=".DifangzhengceActivity"
+            android:label="@string/title_activity_difangzhengce" >
+        </activity>
+        <activity
+            android:name=".ZhengcexiangqingActivity"
+            android:label="@string/title_activity_guojiazhengcexiangqing" >
+        </activity>
+        <activity
+            android:name=".FuwuQianSanActivity"
+            android:label="@string/title_activity_fuwu_qian_san" >
+        </activity>
+        <activity
+            android:name=".GongsijianjieActivity"
+            android:label="@string/title_activity_gongsijianjie" >
+        </activity>
+        <activity android:name=".QuanBuChanPinActivity" >
+        </activity>
+        <activity android:name=".ActivityChanPinListView" >
+        </activity>
+        <activity
+            android:name=".PingtaiActivity"
+            android:label="@string/title_activity_zhaoxiangmu" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.qiyezhongxin.QiyeActivity"
+            android:label="@string/title_activity_zhaoxiangmu" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.jurenmai.JurenmaiActivity"
+            android:label="@string/title_activity_zhaoxiangmu" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.TouRongZiActivity"
+            android:label="@string/title_activity_tou_rong_zi" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.zhaozijin.ZhaoZijin_GuQuanTouZi_Activity"
+            android:label="@string/title_activity_gu_quan" >
+        </activity>
+        <activity android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.canguhezuo.CanGuHeZuoActivity" >
+        </activity>
+        <activity android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.xiangmurongzi.XiangMuRongZiActivity" >
+        </activity>
+        <activity android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.xiangmurongzi.XiangMuRongZiActivity_ShaiXuan" >
+        </activity>
+        <activity android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.shougou.ShouGouActivity" >
+        </activity>
+        <activity android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.ZhaoXiangMu_xiangqing" >
+        </activity>
+        <activity android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.qitahezuo.QiTaHeZuoActivity" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.zhaozijin.ZhaozijinActivity"
+            android:label="@string/title_activity_zhaozijin" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.zhaoxiangmu.ZhaoxiangmuActivity"
+            android:label="@string/title_activity_zhaoxiangmu" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.chenggonganli.CengGongAnLiActivity_Tou"
+            android:label="@string/title_activity_ceng_gong_an_li" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.chenggonganli.ChenggonganliActivity_XiangQing"
+            android:label="@string/title_activity_chenggonganli_activity__xiang_qing" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.qiyezhongxin.ZiliaoxinxiActivity"
+            android:label="@string/title_activity_ziliaoxinxi" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.qiyezhongxin.FachutoudiActivity"
+            android:label="@string/title_activity_fachutoudi" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.activity.jurenmai.JuRenMaiXiangQing_Activity"
+            android:label="@string/title_activity_ju_ren_mai_xiang_qing_" >
+        </activity>
+        <activity
+            android:name="com.ryan.slidefragment.tourongzi.WebActivity"
+            android:label="@string/title_activity_web" >
+        </activity>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="58db1664717c191da3000503" >
+        </meta-data>
+    </application>
+
+</manifest>

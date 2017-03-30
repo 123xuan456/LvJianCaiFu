@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chanpinzhanshi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chanpinzhanshi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_de_po_cai_ji.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_de_po_cai_ji.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_zhaoxiangmu.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\scroll_zhaoxiangmu.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\gongsichanpin_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\gongsichanpin_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiang_mu_rong_zi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_xiang_mu_rong_zi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_xinwen.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_home_xinwen.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gongsi__chanpin__list.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_gongsi__chanpin__list.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qi_ta_he_zuo.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_qi_ta_he_zuo.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\quanbuchanpin_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\quanbuchanpin_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chengyuangongsi_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chengyuangongsi_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_xiang_mu.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_xiang_mu.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\softupdate_progress.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\scale_pic_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\scale_pic_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\img_layout.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\img_layout.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\babydetail_b.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\babydetail_b.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meng_yuan_ji_bie.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_meng_yuan_ji_bie.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zhaiquantouzi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_zhaiquantouzi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_popwindow.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\adapter_popwindow.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_head.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\dialog_head.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_erweima.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_erweima.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\shopping_car_activity.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\shopping_car_activity.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\zhaozijin_xiangqing_1.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\zhaozijin_xiangqing_1.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cheng_gong_an_li.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_cheng_gong_an_li.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\popview_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\popview_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_inc_image_layout.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_meng_yuan_xiang_qing__dialog.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_meng_yuan_xiang_qing__dialog.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\jiarulianmeng.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\jiarulianmeng.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chengyuan_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chengyuan_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shen_qing.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_shen_qing.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jia_ru_lian_meng.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_jia_ru_lian_meng.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zi_jin_jiao_yi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_zi_jin_jiao_yi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tou_rong_zi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_tou_rong_zi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_myinfo.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_myinfo.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_actionbar.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jurenmai.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_jurenmai.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gongsijianjie.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_gongsijianjie.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_difangzhengce.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_difangzhengce.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\mine_fragment.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shou_gou.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_shou_gou.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_zhi_jin.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_zhi_jin.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chenggonganli_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chenggonganli_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fachutoudi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_fachutoudi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_zhaoxiangmu.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_zhaoxiangmu.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tong_zhi_gong_gao.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_tong_zhi_gong_gao.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fuwu_zhanlanhui_dialog_l3.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fuwu_zhanlanhui_dialog_l3.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ju_ren_mai_xiang_qing_.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_ju_ren_mai_xiang_qing_.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ziliaoxinxi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_ziliaoxinxi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wang_ye.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_wang_ye.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pro_type.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_pro_type.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pingtai.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_pingtai.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\slidingmenu\\unspecified\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\show_big_pictrue_a.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\show_big_pictrue_a.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_guquantouzi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_guquantouzi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_collection.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qiye.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_qiye.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chanpin_item_2.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chanpin_item_2.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\about_my.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\about_my.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jishuzhanshixiangqing.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_jishuzhanshixiangqing.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_four.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\what_new_four.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_1.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\dialog_1.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_liuyan.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_liuyan.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\login_title.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\login_title.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fuwu_hangyehuiyuan_dialog_l.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fuwu_hangyehuiyuan_dialog_l.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fuwu_qian_san.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_fuwu_qian_san.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\viewpage.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\viewpage.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\tourongzi_item_chenggonganli.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\tourongzi_item_chenggonganli.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\cart_all_f.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\cart_all_f.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\yijianfankui.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\yijianfankui.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_layout.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_list_layout.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_search.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\lvsecaifuxieyi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\lvsecaifuxieyi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\top_image.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\layout\\top_image.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_one.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\what_new_one.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\babydetail_a.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\babydetail_a.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fuwu_zhanlanhui_dialog_l.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fuwu_zhanlanhui_dialog_l.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_xiangmurongzi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_xiangmurongzi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\hangyezixun_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\hangyezixun_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\yindaoye.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\yindaoye.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_two.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\what_new_two.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\shoucang_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\shoucang_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_jurenmai.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_jurenmai.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\zhaobiao.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\zhaobiao.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhuce.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_zhuce.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\slide_menu_frame.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\slide_menu_frame.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiang_ru_liang_meng_xie_yi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_jiang_ru_liang_meng_xie_yi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\toppic_infomation.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\toppic_infomation.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_web.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\zhaobiao_liucheng.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\zhaobiao_liucheng.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\zhaobiao_gonggao.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\zhaobiao_gonggao.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhao_xiang_mu_xiangqing.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_zhao_xiang_mu_xiangqing.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\jishuzhanshi_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\jishuzhanshi_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\slide_menu_fragment.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\slide_menu_fragment.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chenggonganli_activity__xiang_qing.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_chenggonganli_activity__xiang_qing.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage_at_layout.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chanpin_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chanpin_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\pic_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\pic_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hang_ye_zi_xun.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_hang_ye_zi_xun.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_liuyan.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\scroll_liuyan.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chanpin_item_jishuzhanshiandchenggonganli.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chanpin_item_jishuzhanshiandchenggonganli.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\zhaobiao_jieguo.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\zhaobiao_jieguo.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quan_bu_chan_pin.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_quan_bu_chan_pin.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\sliding_left_content_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\sliding_left_content_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fuwu_gv.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fuwu_gv.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_limengxinwengengduozhengwen.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_limengxinwengengduozhengwen.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lianmengzhengce.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_lianmengzhengce.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\chengyuangongsi_listview.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\chengyuangongsi_listview.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ceng_gong_an_li.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_ceng_gong_an_li.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_home_chengyuan.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_home_chengyuan.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhaozijin.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_zhaozijin.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pingtai1.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_pingtai1.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guojiazhengcexiangqing.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_guojiazhengcexiangqing.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\login_title_shoucang.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\login_title_shoucang.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\mengyuanxiangqing_dialog_l.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\mengyuanxiangqing_dialog_l.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gongsi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_gongsi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\what_new_three.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\what_new_three.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fuwu_zhanlanhui_dialog.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fuwu_zhanlanhui_dialog.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\banner\\1.4.5\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cgal_xinwenxiangqing.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_cgal_xinwenxiangqing.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zhaoxiangmu.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_zhaoxiangmu.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\xiaoxi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\xiaoxi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ji_shu_zhan_shi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_ji_shu_zhan_shi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hangyezhengce.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_hangyezhengce.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\lianmengdongtai_lay.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\lianmengdongtai_lay.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\huanyingye.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\huanyingye.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\dot.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\dot.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_editpage.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\skyblue_editpage.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_cart.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\adapter_listview_cart.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zheng_ci.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_zheng_ci.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\tongzhigonggao_item.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\tongzhigonggao_item.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_zhaozijin.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\scroll_zhaozijin.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\skyblue_share_platform_list.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_liuyan_1.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\scroll_liuyan_1.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gu_quan.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_gu_quan.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\item_canguhezuo.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\item_canguhezuo.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guquantouzi.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\fragment_guquantouzi.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiang_mu_rong_zi_activity_1.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\layout\\activity_xiang_mu_rong_zi_activity_1.xml"
+    }
+]

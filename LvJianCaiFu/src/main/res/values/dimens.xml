@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    
+	<!-- 椤堕儴鍜屽簳閮ㄦ爮楂樺害 -->
+	<dimen name="custom_title_height">64dip</dimen>
+	<dimen name="custom_navi_height">45dip</dimen>
+	
+	<!-- 鑷畾涔夋爣棰樻爮楂樺害 -->
+	<dimen name="custom_left_menu_item_height">45dip</dimen>
+	
+    <!-- 鑷畾涔夊璇濇妯″紡Activity甯冨眬灞炴� -->
+    <dimen name="custom_ad_btn_height">45dp</dimen>
+    <dimen name="custom_ad_btn_margin_height">50dp</dimen>
+    <dimen name="custom_ad_btn_negative_height">-45dp</dimen>
+    <dimen name="custom_ad_padding">90dip</dimen>
+    <dimen name="custom_ad_single_list_item_height">45dp</dimen>
+</resources>

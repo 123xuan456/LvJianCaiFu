@@ -1,0 +1,157 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/register_detail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        layout="@layout/login_title" />
+
+
+
+        <LinearLayout
+            android:id="@+id/scroll_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             android:visibility="gone"
+             
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/ii"
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:src="@drawable/chanpin_log" />
+
+            <TextView
+                android:id="@+id/title_chanpin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="#000000" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <!-- <ImageView
+                    android:id="@+id/iv_baby_collection"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:paddingTop="5dp"
+                    android:src="@drawable/second_2" />
+                <ImageView
+                    android:id="@+id/iv_baby_collection_1"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:visibility="gone"
+                    android:paddingTop="5dp"
+                    android:src="@drawable/second_2_collection" /> -->
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/view1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="产品详情"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:paddingLeft="10dp"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    
+    
+    
+    
+
+        <LinearLayout
+            android:id="@+id/scroll_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/xinwen_biaoti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:text="正在加载。。。"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_margin="5dp" -->
+            <!-- android:text="发布时间：2015-07-14  浏览量：109" -->
+            <!-- android:textSize="10sp" /> -->
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:gravity="right"
+               android:orientation="horizontal" >
+
+              <!--   <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:text="浏览量："
+                    android:textSize="10sp" />
+
+                <TextView
+                    android:id="@+id/xinwen_liulanliang"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:text="11"
+                    android:textSize="10sp" />
+            -->
+              <!--   <ImageView
+                    android:id="@+id/iv_baby_collectio"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="5dp"
+                    android:src="@drawable/second_2" />
+                <ImageView
+                    android:id="@+id/iv_baby_collection_"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:paddingTop="5dp"
+                    android:src="@drawable/second_2_collection" /> -->
+            </LinearLayout>
+             <TextView
+                android:id="@+id/xinwen_neirong"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="稍等。。。" />
+        </LinearLayout>
+    
+    
+</LinearLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_beijing" >
+
+   
+
+    <ImageView
+        android:id="@+id/tubiao"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/user" />
+
+    <TextView
+        android:id="@+id/biaoti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/time"
+        android:layout_toRightOf="@+id/tubiao"
+        android:maxEms="18"
+        android:paddingTop="23dp"
+        android:singleLine="true"
+        android:text="标题标题标题标题标题标题"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingTop="20dp"
+        android:layout_marginRight="20dp"
+        android:text="09:10" />
+
+    <TextView
+        android:id="@+id/neirong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/time"
+        android:layout_below="@+id/biaoti"
+        android:layout_toRightOf="@+id/tubiao"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容" />
+
+</RelativeLayout>

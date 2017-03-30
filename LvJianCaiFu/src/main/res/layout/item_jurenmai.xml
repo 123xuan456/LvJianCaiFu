@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingTop="5dp"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageView7"
+        android:layout_margin="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/peixun"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="张女士"
+        android:id="@+id/xingbie"
+        android:textSize="15sp"
+        android:layout_alignTop="@+id/imageView7"
+        android:layout_toRightOf="@+id/imageView7"
+        android:layout_toEndOf="@+id/imageView7" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="经理"
+        android:id="@+id/textView11"
+        android:layout_alignBottom="@+id/xingbie"
+        android:layout_toRightOf="@+id/xingbie"
+        android:paddingLeft="5dp"
+        android:layout_toEndOf="@+id/xingbie" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="然后覅偶奥维尔福田宏伟哦啊【符合啊回复爱护乳房有我和UI返回键卡尔维护法尔UI"
+        android:id="@+id/textView12"
+        android:layout_below="@+id/xingbie"
+        android:layout_alignLeft="@+id/xingbie"
+        android:maxLength="30"
+        android:ellipsize="end"
+
+        android:layout_alignStart="@+id/xingbie"
+        android:layout_marginTop="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="来自信息   "
+        android:id="@+id/textView13"
+        android:layout_alignBottom="@+id/imageView7"
+        android:layout_alignLeft="@+id/textView12"
+        android:layout_alignStart="@+id/textView12" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="收到后安顺地偶发狗爱上就覅哦啊覅偶按"
+        android:singleLine="true"
+        android:id="@+id/textView14"
+        android:paddingLeft="5dp"
+        android:layout_alignBottom="@+id/textView13"
+        android:layout_toRightOf="@+id/textView11"
+        android:layout_toEndOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/toudi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/yuanjiao_toudi"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="约谈项目"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/textView12"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="18dp"
+        android:layout_marginEnd="18dp" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#b3b3b3"
+        android:layout_below="@+id/imageView7"
+ />
+
+</RelativeLayout>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4b4b4f" >
+
+    <!-- 底部操作 -->
+
+    <LinearLayout
+        android:id="@+id/left_menu_bottom_opers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/left_menu_get_source"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#454545"
+            android:clickable="true" >
+		<View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#34393d"/>
+            <TextView
+                android:id="@+id/guanyu"
+                style="@style/left_menu_oper_item_txt"
+                android:layout_centerInParent="true"
+                android:drawableLeft="@drawable/cog"
+                android:text="@string/str_sliding_bottom_text1" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="8dip"
+            android:layout_marginTop="8dip"
+            android:background="#32373b" />
+    </LinearLayout>
+    <!-- 个人信息 -->
+
+    <LinearLayout
+        android:id="@+id/left_menu_perinfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="26dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rl"
+            android:layout_width="match_parent"
+            android:layout_height="167dp"
+            android:layout_marginBottom="20dp"
+            android:paddingTop="10dp" >
+
+            <!-- <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/left_menu_avatar"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="17dp"
+                android:clickable="true"
+                android:src="@drawable/erweima" /> -->
+
+            <ImageView
+                android:id="@+id/left_menu_avatar"
+                android:layout_width="82dip"
+                android:layout_height="82dip"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/touxiang2" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/left_menu_avatar"
+                android:layout_below="@+id/left_menu_avatar"
+                android:layout_marginTop="20dp"
+                android:text="绿建中心"
+                android:textColor="#BEBEBE"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+    <!-- 中部操作项 -->
+
+    <ScrollView
+        android:id="@+id/sc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/left_menu_bottom_opers"
+        android:layout_below="@id/left_menu_perinfo" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+           <!--  <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#34393d" /> -->
+            <!-- 考虑扩展，用了相对布局。比如：右侧要加一个键头表示可点击 -->
+
+            <RelativeLayout
+                android:id="@+id/left_menu_blog"
+                android:layout_width="match_parent"
+                android:layout_height="50dip"
+                android:layout_marginBottom="20dp"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/sy"
+                    style="@style/left_menu_item_txt"
+                    android:background="@drawable/left"
+                    android:layout_marginLeft="15dp"
+					android:paddingLeft="10dp"
+                    android:text="@string/str_middle_text1" />
+
+            </RelativeLayout>
+
+           <!--  <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#34393d" />
+ -->
+            <RelativeLayout
+                android:id="@+id/left_menu_mailto"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="20dp"
+                android:layout_height="50dip"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/zbt"
+                    style="@style/left_menu_item_txt"
+                    
+                     android:background="@drawable/left"
+                    android:layout_marginLeft="15dp"
+					android:paddingLeft="10dp"
+                    android:text="@string/str_middle_text2" />
+            </RelativeLayout>
+
+            <!-- <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#34393d" /> -->
+
+            <RelativeLayout
+                android:id="@+id/left_menu_luntan"
+                android:layout_width="match_parent"
+                android:layout_height="50dip"
+                android:clickable="true" >
+
+                <TextView
+                    android:id="@+id/zc"
+                    style="@style/left_menu_item_txt"
+                     android:background="@drawable/left"
+                    android:layout_marginLeft="15dp"
+					android:paddingLeft="10dp"
+                    android:text="@string/str_middle_text3" />
+            </RelativeLayout>
+
+           <!--  <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#34393d" /> -->
+
+<!--             <RelativeLayout -->
+<!--                 android:id="@+id/left_menu_canpinzhanshi" -->
+<!--                 android:layout_width="match_parent" -->
+<!--                 android:layout_height="50dip" -->
+<!--                 android:clickable="true" > -->
+
+<!--                 <TextView -->
+<!--                     style="@style/left_menu_item_txt" -->
+<!--                     android:text="@string/str_middle_text5" /> -->
+
+<!--                 <ImageView -->
+<!--                     android:layout_width="wrap_content" -->
+<!--                     android:layout_height="wrap_content" -->
+<!--                     android:layout_alignParentRight="true" -->
+<!--                     android:scaleType="centerInside" -->
+<!--                     android:src="@drawable/right_arrow" /> -->
+<!--             </RelativeLayout> -->
+<!-- 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#34393d" /> -->
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/lll"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_above="@id/sc"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/xiaoxi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="我的消息"
+                android:textColor="#fff"
+                android:textSize="10sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/shoucang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="我的收藏"
+                android:textColor="#fff"
+                android:textSize="10sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

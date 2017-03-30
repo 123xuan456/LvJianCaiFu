@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\briefcase.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\briefcase.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baise.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\baise.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiao2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiao2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_back.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\se2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\se2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pin.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\n3.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\n3.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcom_4.jpg",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\welcom_4.jpg"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiao.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiao.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiao1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiao1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiantiao.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\xiantiao.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\se3.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\se3.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a24.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\a24.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chanpin_1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\chanpin_1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bookmark1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\bookmark1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiao_2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiao_2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lanse.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\lanse.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dot.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\dot.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\x1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\x1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\n2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\n2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiangmurongzi.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\xiangmurongzi.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiangmubeijing.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\xiangmubeijing.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_cancel.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\q2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\q2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xuxian.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\xuxian.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_yaoyiyao.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\me_login.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\me_login.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\beijingtu.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\beijingtu.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cy_nuantongkongtiao_1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\cy_nuantongkongtiao_1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chengse.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\chengse.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\title_shadow.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_divider.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_divider.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuandian.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuandian.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiao_toudi.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiao_toudi.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\se1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\se1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\time.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\time.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chanpin2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\chanpin2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\xiaoxi_my.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\xiaoxi_my.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lianmingxinwen1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\lianmingxinwen1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_divider.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\the_divider.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hongse.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\hongse.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\coffe.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\coffe.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\fanhui.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\fanhui.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\group.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\group.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_bg.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_bg.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bk.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\bk.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_back_btn.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle_info.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\circle_info.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bai_xiang.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\bai_xiang.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hui_xiang.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\hui_xiang.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\light_blue_point.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\light_blue_point.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhijinfangbeijing.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zhijinfangbeijing.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chanpin1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\chanpin1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\q4.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\q4.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_rotate.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\drawable-xhdpi-v4\\new_rotate.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_close.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_close.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zaixianliuyanjuxing.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zaixianliuyanjuxing.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zijin_hui.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zijin_hui.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_chd.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tubiao_2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\tubiao_2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\laba.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\laba.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hyzx.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\hyzx.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_actionbar_ok_btn.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_back.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\edittext_back.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\denglutouxiang.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\denglutouxiang.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiaojuxing.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiaojuxing.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huise.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\huise.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\writ.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\writ.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\briefcase1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\briefcase1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zijin_bai.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zijin_bai.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\q1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\q1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\message.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tourongzibeijing.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\tourongzibeijing.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcom_2.jpg",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\welcom_2.jpg"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back_nor.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\btn_back_nor.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcom_3.jpg",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\welcom_3.jpg"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_remove.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refresh.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\n1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\n1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shoucang_my.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\shoucang_my.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bookmark.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\bookmark.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tianlan.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\tianlan.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\write.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\write.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qwqwqwq.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\qwqwqwq.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_point.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\blue_point.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\laba1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\laba1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cof.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\cof.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\q3.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\q3.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shades.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\shades.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dingbu.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\drawable-xhdpi-v4\\dingbu.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\af.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\af.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cy_kezaisheng_1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\cy_kezaisheng_1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dot_lit.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\dot_lit.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shouye.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\shouye.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cog.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\cog.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_title_back.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\left.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\grou.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\grou.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuanjiao_1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuanjiao_1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhaoxuangmu.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zhaoxuangmu.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jishu.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\jishu.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\yuantou.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\yuantou.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zhaoxiangmu1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zhaoxiangmu1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zise.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\zise.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mail.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a12.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\a12.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_menu1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\img_menu1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_bg1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\login_bg1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\auth_follow_cb_unc.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcom_1.jpg",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\welcom_1.jpg"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pic_biankuang.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\pic_biankuang.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\find.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\left_1.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\left_1.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_editpage_image_bg.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_editpage_image_bg.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_bg2.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\login_bg2.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shouchang.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\shouchang.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\lvse.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\lvse.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\skyblue_platform_checked_disabled.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete.png",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\drawable-xhdpi\\delete.png"
+    }
+]

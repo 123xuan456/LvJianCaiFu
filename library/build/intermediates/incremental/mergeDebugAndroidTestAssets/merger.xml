@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="D:\LvJianCaiFu\library\build\intermediates\bundles\debug\assets"><file name="yahei.ttf" path="D:\LvJianCaiFu\library\build\intermediates\bundles\debug\assets\yahei.ttf"/></source></dataSet><dataSet config="main"><source path="D:\LvJianCaiFu\library\src\androidTest\assets"/><source path="D:\LvJianCaiFu\library\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

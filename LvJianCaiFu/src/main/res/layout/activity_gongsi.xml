@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/register_detail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        layout="@layout/login_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp" >
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_gravity="center"
+                android:id="@+id/gongsilog_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/gongsi1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/gongsi_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:text=""
+                        android:textColor="#109ff3" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="成员级别：" />
+
+                        <TextView
+                            android:id="@+id/gongsi_chengyuanjibie"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="公司规模：" />
+
+                        <TextView
+                            android:id="@+id/gongsi_guimo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="人" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="公司性质：" />
+
+                        <TextView
+                            android:id="@+id/gongsi_xingzhi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="公司电话：" />
+
+                        <TextView
+                            android:id="@+id/gongsi_dianhua"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#38acf0"
+                android:text="公司简介"
+                android:textColor="#fff"
+                android:textSize="17sp" />
+
+            <TextView
+                android:padding="5dp"
+                android:id="@+id/t_gongsijiejian_juti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" " />
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/t_chakangengduo" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="match_parent" -->
+            <!-- android:gravity="center_horizontal" -->
+            <!-- android:text="查看更多" -->
+            <!-- android:textColor="#CC3366" /> -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp" >
+            </LinearLayout>
+
+            <!-- <TextView -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_margin="5dp" -->
+            <!-- android:background="#38acf0" -->
+            <!-- android:text="公司产品" -->
+            <!-- android:textColor="#fff" -->
+            <!-- android:textSize="17sp" /> -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:gravity="center" -->
+            <!-- android:orientation="horizontal" > -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_margin="5dp" -->
+            <!-- android:gravity="center" -->
+            <!-- android:orientation="vertical" > -->
+
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/i_chanpin1" -->
+            <!-- android:layout_width="80dp" -->
+            <!-- android:layout_height="50dp" -->
+            <!-- android:src="@drawable/chanpinzhenjiazai" /> -->
+
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:ellipsize="end" -->
+            <!-- android:maxEms="6" -->
+            <!-- android:singleLine="true" -->
+            <!-- android:text="假数据假数据假数据" /> -->
+            <!-- </LinearLayout> -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_margin="5dp" -->
+            <!-- android:gravity="center" -->
+            <!-- android:orientation="vertical" > -->
+
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/i_chanpin2" -->
+            <!-- android:layout_width="80dp" -->
+            <!-- android:layout_height="50dp" -->
+            <!-- android:src="@drawable/chanpinzhenjiazai" /> -->
+
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:ellipsize="end" -->
+            <!-- android:maxEms="6" -->
+            <!-- android:singleLine="true" -->
+            <!-- android:text="假数据假数据假数据" /> -->
+            <!-- </LinearLayout> -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_margin="5dp" -->
+            <!-- android:gravity="center" -->
+            <!-- android:orientation="vertical" > -->
+
+
+            <!-- <ImageView -->
+            <!-- android:id="@+id/i_chanpin3" -->
+            <!-- android:layout_width="80dp" -->
+            <!-- android:layout_height="50dp" -->
+            <!-- android:src="@drawable/chanpinzhenjiazai" /> -->
+
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:ellipsize="end" -->
+            <!-- android:maxEms="6" -->
+            <!-- android:singleLine="true" -->
+            <!-- android:text="假数据假数据假数据" /> -->
+            <!-- </LinearLayout> -->
+            <!-- </LinearLayout> -->
+
+
+            <!-- <TextView -->
+            <!-- android:id="@+id/t_gengduochanpin" -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:gravity="center" -->
+            <!-- android:text="查看更多产品" -->
+            <!-- android:textColor="#38acf0" /> -->
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

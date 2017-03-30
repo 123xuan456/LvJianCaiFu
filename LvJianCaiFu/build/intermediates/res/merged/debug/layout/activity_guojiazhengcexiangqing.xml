@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ryan.slidefragment.generaldemo.ZhengcexiangqingActivity" >
+
+   <include
+        android:id="@+id/register_detail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        layout="@layout/login_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/xinwen_biaoti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:text="正在加载。。。"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_margin="5dp" -->
+            <!-- android:text="发布时间：2015-07-14  浏览量：109" -->
+            <!-- android:textSize="10sp" /> -->
+
+            <TextView
+                android:id="@+id/xinwen_neirong"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:text="" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

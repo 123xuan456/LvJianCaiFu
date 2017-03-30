@@ -1,0 +1,220 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MengYuanJiBieActivity" >
+
+    <include
+        android:id="@+id/register_detail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        layout="@layout/login_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#cdccca"
+        android:text="请选择盟员级别" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioGroup
+            android:id="@+id/rGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:orientation="horizontal" -->
+            <!-- android:paddingBottom="5dp" -->
+            <!-- android:paddingLeft="10dp" -->
+            <!-- android:paddingRight="10dp" -->
+            <!-- android:paddingTop="5dp" > -->
+
+            <RadioButton
+                android:id="@+id/fulishizhang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="副理事长" />
+
+            <!-- <View -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="1dp" -->
+            <!-- android:background="#cdccca" /> -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:orientation="horizontal" -->
+            <!-- android:paddingBottom="5dp" -->
+            <!-- android:paddingLeft="10dp" -->
+            <!-- android:paddingRight="10dp" -->
+            <!-- android:paddingTop="5dp" > -->
+
+            <RadioButton
+                android:id="@+id/changwulishi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="常务理事" />
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_weight="1" -->
+            <!-- android:gravity="right" -->
+            <!-- android:text="详情" -->
+            <!-- android:textSize="12sp" /> -->
+            <!-- </LinearLayout> -->
+
+
+            <!-- <View -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="1dp" -->
+            <!-- android:background="#cdccca" /> -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:orientation="horizontal" -->
+            <!-- android:paddingBottom="5dp" -->
+            <!-- android:paddingLeft="10dp" -->
+            <!-- android:paddingRight="10dp" -->
+            <!-- android:paddingTop="5dp" > -->
+
+            <RadioButton
+                android:id="@+id/lishi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="理事" />
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_weight="1" -->
+            <!-- android:gravity="right" -->
+            <!-- android:text="详情" -->
+            <!-- android:textSize="12sp" /> -->
+            <!-- </LinearLayout> -->
+
+
+            <!-- <View -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="1dp" -->
+            <!-- android:background="#cdccca" /> -->
+
+
+            <!-- <LinearLayout -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:orientation="horizontal" -->
+            <!-- android:paddingBottom="5dp" -->
+            <!-- android:paddingLeft="10dp" -->
+            <!-- android:paddingRight="10dp" -->
+            <!-- android:paddingTop="5dp" > -->
+
+            <RadioButton
+                android:id="@+id/mengyuan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="盟员" />
+
+            <!-- <TextView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_weight="1" -->
+            <!-- android:gravity="right" -->
+            <!-- android:text="详情" -->
+            <!-- android:textSize="12sp" /> -->
+            <!-- </LinearLayout> -->
+
+
+            <!-- <View -->
+            <!-- android:layout_width="match_parent" -->
+            <!-- android:layout_height="1dp" -->
+            <!-- android:background="#cdccca" /> -->
+        </RadioGroup>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="5dp" >
+
+            <TextView
+                android:id="@+id/t_xiangqing0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="详情"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/t_xiangqing1"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="详情"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/t_xiangqing2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="详情"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/t_xiangqing3"
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="详情"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <Button
+            android:id="@+id/b_xieyi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="协议" />
+
+        <Button
+            android:id="@+id/b_zhifu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="支付" />
+    </LinearLayout>
+
+</LinearLayout>

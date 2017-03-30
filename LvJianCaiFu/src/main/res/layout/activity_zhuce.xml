@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f0f0f0"
+    android:scrollbars="none" >
+
+    <include
+        android:id="@+id/register_detail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        layout="@layout/login_title" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/register_detail"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <!-- 手机号码 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_bg4" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/register12"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/phone_edit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:inputType="number"
+                android:maxLength="11"
+                android:singleLine="true"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <!-- 验证码 -->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_bg4" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/register2"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/register_yzm"
+                android:layout_width="135dip"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/textView1"
+                android:layout_alignBottom="@+id/textView1"
+                android:layout_toRightOf="@+id/textView1"
+                android:background="@null"
+                android:ems="10"
+                android:maxLength="16"
+                android:singleLine="true"
+                android:textSize="17sp" >
+
+                <requestFocus />
+            </EditText>
+
+            <TextView
+                android:id="@+id/tv_text"
+                android:layout_width="wrap_content"
+                android:layout_height="24dp"
+                android:layout_alignBaseline="@+id/register_yzm"
+                android:layout_alignBottom="@+id/register_yzm"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/yuanjiao_2"
+                android:clickable="true"
+                android:gravity="center"
+                android:padding="3dp"
+                android:text="发送验证码" />
+
+        </RelativeLayout>
+
+        <!-- 
+        android:layout_marginLeft="dp"
+        android:text="         点击获取"
+        android:padding="20dip"
+         -->
+        <!-- 新密码 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/login_bg4" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/register0"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/new_password_edit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:digits="@string/register_name_digits"
+                android:hint="******"
+                android:inputType="textPassword"
+                android:maxLength="12"
+                android:singleLine="true"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <!-- 确认密码 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:background="@drawable/login_bg4" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/register3"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <EditText
+                android:id="@+id/new_password_edit1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:hint="******"
+                android:inputType="textPassword"
+                android:maxLength="12"
+                android:singleLine="true"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dip"
+            android:orientation="horizontal" >
+
+            <CheckBox
+                android:id="@+id/treaty_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text=""
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/xieyi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:text="同意注册绿建中心协议" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/new_register_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+		android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/yuanjiao"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="注册"
+        android:textColor="#ffffffff"
+        android:textSize="20sp" />
+
+</RelativeLayout>

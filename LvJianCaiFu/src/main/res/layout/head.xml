@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/sick_title_left_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/back" />
+
+<!--     <ImageView -->
+<!--         android:id="@+id/headcar" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_alignParentRight="true" -->
+<!--         android:layout_centerVertical="true" -->
+<!--         android:layout_marginRight="10dp" -->
+<!--         android:clickable="true" -->
+<!--         android:src="@drawable/headcar" /> -->
+
+    <TextView
+        android:id="@+id/chanpinzhanshi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/sick_title_left_img"
+        android:layout_toRightOf="@+id/sick_title_left_img"
+        android:text=" 产品展示"
+        android:textColor="#3d3d3d"
+        android:textSize="16sp" />
+
+    
+
+</RelativeLayout>

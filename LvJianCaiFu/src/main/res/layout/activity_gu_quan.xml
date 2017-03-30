@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ryan.slidefragment.tourongzi.activity.GuQuanActivity" >
+<include
+                android:id="@+id/register_detail"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                layout="@layout/login_title" />
+
+    <ScrollView
+        android:id="@+id/s"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/register_detail" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <include
+                android:id="@+id/zhaozijin_xiangqing"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                layout="@layout/zhaozijin_xiangqing_1" />
+
+            <include
+                android:id="@+id/scroll_zhaozijin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/zhaozijin_xiangqing"
+                layout="@layout/scroll_zhaozijin" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

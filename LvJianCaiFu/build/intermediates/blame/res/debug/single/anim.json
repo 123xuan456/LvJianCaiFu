@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\outdowntoup.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\outdowntoup.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\zoomout.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\zoomout.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\zoomin.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\zoomin.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\shape_rounded_rectangle.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\shape_rounded_rectangle.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\button_long.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\button_long.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\inuptodown.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\inuptodown.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\submit_item_selected.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\submit_item_selected.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\pop_up_in.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\pop_up_in.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\shape_rounded_selectable.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\shape_rounded_selectable.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\anim\\pop_down_out.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\anim\\pop_down_out.xml"
+    }
+]

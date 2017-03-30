@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/qwqwqwq"
+    tools:context="com.jishigou.ryan.studiospace.HomeFragment" >
+
+<RelativeLayout
+        android:id="@+id/rl_title_my"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#3399cc" >
+
+        <ImageView
+            android:id="@+id/iv_left_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:onClick="showLeftMenu"
+            android:src="@drawable/img_menu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="成    员"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <com.viewpagerindicator.TabPageIndicator
+        android:id="@+id/indicator"
+        android:background="#eee"
+        style="@style/StyledIndicators"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:focusable="true" />
+
+</LinearLayout>

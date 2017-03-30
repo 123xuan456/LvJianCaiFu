@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:circle="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bag_zhengce">
+
+    <include
+        android:id="@+id/register_detail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        layout="@layout/login_title" />
+    <!-- TODO: Update blank fragment layout -->
+
+    <com.ryan.slidefragment.view.CircleLayout
+        android:id="@+id/main_circle_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignBottom="@+id/main_selected_textView"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/register_detail"
+        android:layout_gravity="center_horizontal"
+        circle:firstChildPosition="South"
+        circle:isRotating="true"
+        circle:rotateToCenter="true" >
+
+        <com.ryan.slidefragment.view.CircleImageView
+            android:id="@+id/main_facebook_image"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/difangzhengci" 
+            circle:name="@string/j1"/>
+
+        <com.ryan.slidefragment.view.CircleImageView
+            android:id="@+id/main_myspace_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/guojiazhengce" 
+            circle:name="@string/j2"/>
+
+        <com.ryan.slidefragment.view.CircleImageView
+            android:id="@+id/main_google_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/hangyezhengce" 
+            circle:name="@string/j3"/>
+
+        <com.ryan.slidefragment.view.CircleImageView
+            android:id="@+id/main_linkedin_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lianmengzhengce" 
+            circle:name="@string/j4"/>
+    </com.ryan.slidefragment.view.CircleLayout>
+
+    <TextView
+        android:id="@+id/main_selected_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>

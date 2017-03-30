@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\LvJianCaiFu\library\src\main\assets"><file name="yahei.ttf" path="D:\LvJianCaiFu\library\src\main\assets\yahei.ttf"/></source><source path="D:\LvJianCaiFu\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\LvJianCaiFu\library\src\debug\assets"/></dataSet></merger>

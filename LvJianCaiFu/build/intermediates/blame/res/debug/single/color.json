@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\color\\c1.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\color\\c1.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\color\\left_shouye.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\color\\left_shouye.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\color\\tourongzi_text.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\color\\tourongzi_text.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\color\\c.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\src\\main\\res\\color\\c.xml"
+    },
+    {
+        "merged": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\LvJianCaiFu\\LvJianCaiFu\\build\\intermediates\\exploded-aar\\LvJianCaiFu\\viewpagerIndicator_library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    }
+]

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/i"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="10dp"
+        android:src="@drawable/c" />
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/i"
+        android:background="#2dc4fc" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/i" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:orientation="vertical">
+ <TextView
+                android:id="@+id/txt_neirong1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/view"
+                android:layout_margin="5dp"
+                android:text="简单的AlertDialog（只显示一段简单的信息，比如about us）
+
+二、带按钮的AlertDialog（显示提示信息，让用户操作，比如exit时的警告框）
+
+三、类似ListView的AlertDialog（展示内容，比如某人的一些注册信息）
+
+四、类似RadioButton的AlertDialog（让用户选择，单选）
+
+五、类似CheckBox的AlertDialog（让用户多选）
+
+六、自定义View的AlertDialog（当以上方式满足不了你的需求，就要自定义了）"
+                android:textSize="13sp" />
+
+            <TextView
+                android:textStyle="bold"
+                android:id="@+id/txt_shengji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:text="您还不是盟员，需加入后查看！"
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/b_xiayibu"
+                android:layout_margin="5dp"
+                android:layout_gravity="right"
+                android:layout_width="wrap_content"
+                android:layout_height="22dp"
+                android:background="#837f7a"
+                android:text="下一步" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/i"
+        android:layout_marginLeft="16dp"
+        android:text="提示" />
+
+</RelativeLayout>

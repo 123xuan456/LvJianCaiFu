@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.ryan.slidefragment.generaldemo"
+        minSdkVersion 18
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+dependencies {
+    compile project(':library')
+    compile project(':xutillibrary')
+    compile project(':viewpagerIndicator_library')
+    compile 'com.google.code.gson:gson:2.2.1'
+    compile files('libs/mframework.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/volley.jar')
+    compile 'com.lzy.net:okgo:2.1.4'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    //  compile 'com.android.support:support-v4:24.0.0-alpha1'
+    compile project(':banner')
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="software_textColor_selected">#3399cc</color>  
+    <color name="software_textColor_unselected">#FF464646</color>
+    <color name="white">#ffffffff</color>  
+    <color name="tianhuai">#B8B8B8</color>
+        <!-- 洋李色 -->
+    <color name="gainsboro">#dcdcdc</color>
+    <!-- 红色-->
+    <color name="red">#FF7F50</color>
+    
+</resources>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ebe6d9"
+    android:orientation="vertical" >
+
+    
+    <RelativeLayout
+        android:id="@+id/rl_title_my"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#3399cc" >
+
+        <ImageView
+            android:id="@+id/iv_left_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:onClick="showLeftMenu"
+            android:src="@drawable/img_menu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="产品分类"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+        
+        <ImageView
+            android:id="@+id/headcar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:clickable="true"
+            android:src="@drawable/headcar" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dip"
+        android:background="#eee"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pay_bg2"
+            android:orientation="vertical" >
+
+            <!--  -->
+
+            <TextView
+                android:id="@+id/help_item1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/more_12"
+                android:drawableLeft="@drawable/chanpin_jianzhucailiao"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingTop="10dip"
+                android:text="   建筑、建材"
+                android:textColor="#7E6E4C"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/haha"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <TextView
+                android:id="@+id/help_item2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/chanpin_huanbao"
+                android:drawableRight="@drawable/more_12"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingTop="10dip"
+                android:text="   环保"
+                android:textColor="#7E6E4C"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/qwe"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview0"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <TextView
+                android:id="@+id/help_item3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/chanpin_jaijuzhuangshi"
+                android:drawableRight="@drawable/more_12"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingTop="10dip"
+                android:text="   家居装饰"
+                android:textColor="#7E6E4C"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/rty"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview9"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <TextView
+                android:id="@+id/help_item4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                
+                android:drawableLeft="@drawable/chanpin_xinnengyuan"
+                android:drawableRight="@drawable/more_12"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingTop="10dip"
+                android:text="   新能源"
+                android:textColor="#7E6E4C"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/poi"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview8"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/zxc"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/help_item6"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/chanpin_huagongnengyuan"
+                android:drawableRight="@drawable/more_12"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingTop="10dip"
+                android:text="   化工能源"
+                android:textColor="#7E6E4C"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/mnb"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <TextView
+                android:id="@+id/help_item7"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/chanpin_jixiezhizao"
+                android:drawableRight="@drawable/more_12"
+                android:paddingBottom="10dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingTop="10dip"
+                android:text="   机械制造"
+                android:textColor="#7E6E4C"
+                android:textSize="15sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+
+            <LinearLayout
+                android:id="@+id/qaz"
+                android:layout_width="match_parent"
+                android:layout_height="300dip"
+                android:visibility="gone" >
+
+                <GridView
+                    android:id="@+id/gridview5"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:columnWidth="90dp"
+                    android:gravity="center"
+                    android:horizontalSpacing="10dp"
+                    android:numColumns="3"
+                    android:paddingTop="15dp"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#D2C4A0" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

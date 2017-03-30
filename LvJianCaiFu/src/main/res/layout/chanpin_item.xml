@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:background="#efeff4"
+   android:paddingTop="5dp"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/chanpin_1"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp" >
+
+    
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="5dp"
+            android:layout_marginTop="13dp" >
+
+            <TextView
+                android:id="@+id/t_jishuzhanshi_xinwenbiaoti"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="dadad"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+             <TextView
+                 android:id="@+id/hangyezixun_time"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentRight="true"
+                 android:layout_below="@+id/t_jishuzhanshi_xinwenbiaoti"
+                 android:layout_marginRight="33dp"
+                 android:padding="3dp"
+                 android:text="2015-6-9"
+                 android:textSize="10sp" />
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_alignParentLeft="true"
+                 android:paddingTop="5dp"
+                 android:layout_below="@+id/hangyezixun_time"
+                 android:gravity="right" >
+
+                 <TextView
+                     android:id="@+id/t_jishuzhanshi_xinwenneirong"
+                     android:layout_width="wrap_content"
+                     android:layout_height="match_parent"
+                     android:ellipsize="end"
+                     android:maxLines="3"
+                     android:text="dadadadafsgfghfgjhfghfhegjhghjgjghjghjgjgjgjghjghjgjjjghjgjgjyrtreterterterewerwetehrsth" />
+             </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <!--  <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:background="#f0f0f0" />  -->
+
+</LinearLayout>
+ 

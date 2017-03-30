@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\libs\mframework.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25509058b34a5ee08dbf66e57078e3083735d200">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\mframework_2a030a65dc62a0e1daf973bd7139d561fc245740.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\libs\volley.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="545f528c7017156970107b2452a7c86c58eff549">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\volley_dbda742088e8edc3117793f880c3ad1bcfff3b67.jar" />
+    </item>
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e86f39ebaa2c336ccf3f42405e8cd97f58a60b0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\de\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\glide-3.7.0_97df2dae71af82ca4378af1a227ac2404ea2ad70.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\exploded-aar\LvJianCaiFu\slidingmenu\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c567e9225f851a04ff1cfebf23d45706561afae">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\LvJianCaiFu-slidingmenu-unspecified_654a4c21b8ca41863821692e872e49e57b146b14.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\exploded-aar\LvJianCaiFu\xutillibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="369c510234580bc8ba1602af8d980967f5b6ebfe">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\LvJianCaiFu-xutillibrary-unspecified_26f74077c22fea8839eb71632b8e22aeb03c7ed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\de\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.1\d8e711ae108185c59c17b36b3c3f11b20cf9b4d5\gson-2.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\gson-2.2.1_a76a35e25e0dec3385d4c92d451c34fb04573ec4.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\exploded-aar\LvJianCaiFu\viewpagerIndicator_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="bddd5f1c30ad71b34bd6186446f8e706bb2d8aa2">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\LvJianCaiFu-viewpagerIndicator_library-unspecified_bb5a664a81b33e3ee9301beb930e8836cf5b885e.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\exploded-aar\LvJianCaiFu\banner\1.4.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5eea578ec65a5201b0273c06e34a4a12317932eb">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\LvJianCaiFu-banner-1.4.5_b1bcc5e78e308590019ec6f985676bfeeff5b421.jar" />
+    </item>
+    <item
+        jar="C:\Users\de\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\okhttp-3.4.1_1b3196ff8db6412495a1dff32376a5008b8f289e.jar" />
+    </item>
+    <item
+        jar="C:\Users\de\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\okio-1.9.0_1f598e28a98acb40af5194cbbd56c6e879476f6e.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3_e51250767d964591dfcaeeb3a5483bca352e8679.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\exploded-aar\LvJianCaiFu\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7d4d3bba942a0d2c103e695d5d8cc1f24ac5727">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\LvJianCaiFu-library-unspecified_9a7c28a11098fe62f90ef11b40356039ea9f5686.jar" />
+    </item>
+    <item
+        jar="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\exploded-aar\com.lzy.net\okgo\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cb698597bf429f71793a87217f63a28cf7de0916">
+        <dex dex="D:\LvJianCaiFu\LvJianCaiFu\build\intermediates\pre-dexed\debug\com.lzy.net-okgo-2.1.4_f2c31e395c15492fd155ef75bb6083c298b1d684.jar" />
+    </item>
+
+</items>
